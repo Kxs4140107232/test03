@@ -2,8 +2,12 @@ git init		创建仓库
 git add 名字		添加到暂存区
 git commit -m “说明”	提交到本地仓库，清空暂存区
 git status		查看暂存区状态
+git log			查看提交committed
+git reset --hard committed	版本回退
+git branch		查看分支
 git remote add origin git@github.com:yourname/仓库名.git 	关联
 git push -u origin master	提交到远程仓库
+
 
 
 
