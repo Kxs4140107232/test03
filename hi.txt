@@ -1,3 +1,8 @@
 hi git
 https://github.com/guoyang123/learnshopping/tree/master
 无用文章，试试git版本回退
+
+
+
+阿里云git没法用，提交不到远端仓库，来试试本地git怎么用
+
